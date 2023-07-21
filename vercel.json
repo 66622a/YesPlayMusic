@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netese-music.dyzy.ml/:match*"
+      "destination": "https://netese-music.qrfly.me/:match*"
     }
   ]
 }
